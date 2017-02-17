@@ -14,6 +14,7 @@ public class Test {
      *
      * @param arg0
      */
+//添加一行文字
     public static void main(String[]arg0){
         LineCounter line=new LineCounter();//ijojk
         line.Count("EffectiveLines");
